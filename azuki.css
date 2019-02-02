@@ -18,3 +18,58 @@ ul #nav-list {
 .user.active{
   font-weight: 900;
 }
+.logo{
+  padding-top:20px;
+  padding-left:5px;
+}
+h1{
+  color: #000000;
+  font-size: 39px;
+  font-family: "Bangla MN"
+}
+a{
+  color: #000000;
+  font-size: 14px;
+  font-family: Arial;
+}
+.d-flex{
+  padding-top:30px;
+}
+.sofa{
+  width: 209px;
+  height: 57px;
+  padding-top: 5px;
+  padding-right: 5px;
+  background-color: #B1B71A;
+  color: #FFFFFF;
+}
+.chair{
+  padding-top: 5px;
+  padding-right: 5px;
+  background-color: #514B67;
+  color: #FFFFFF;
+}
+.t-ble{
+  padding-top: 5px;
+  padding-right: 5px;
+  background-color: #C0AF57;
+  color: #FFFFFF;
+}
+.bed{
+  padding-top: 5px;
+  padding-right: 5px;
+  background-color: #A65D4E;
+  color: #FFFFFF;
+}
+.strage{
+  padding-top: 5px;
+  padding-right: 5px;
+  background-color: #5B3534;
+  color: #FFFFFF;
+}
+.rug{
+  padding-top: 5px;
+  padding-right: 5px;
+  background-color: #989986;
+  color: #FFFFFF;
+}
